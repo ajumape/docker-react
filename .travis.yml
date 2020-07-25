@@ -7,4 +7,3 @@ before_install:
 
 script:
     - docker run mapedocker/docker-react npm run test -- --coverage
-    
