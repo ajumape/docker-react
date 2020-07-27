@@ -8,7 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload 7.
+          // Edit <code>src/App.js</code> and save to reload 7. [this is the old line of message]
+          I was changed on the feature branch
         </p>
         <a
           className="App-link"
